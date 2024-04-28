@@ -1,0 +1,9 @@
+# Analysis Scripts
+
+Vavilov_Wire_Fit.cpp
+Fits WireEnd histograms from DCTPresenter_out.root file.
+Fits WireEnd_<nnn>_RoIADCSum histograms to Vavilov distribution
+Calculates Chi^2 value and plots residuals vs ADC and histogram of residuals.
+
+#to-do
+Create helper functons to organize code a bit better
